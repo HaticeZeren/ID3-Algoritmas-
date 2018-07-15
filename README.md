@@ -1,8 +1,8 @@
 # ID3-Algoritmasi-
-Weka'da J48 algoritması olarak geçen ID3 algoritmasının thread kullanılarak  kodlanmıştır.
+Weka'da J48 algoritması olarak geçen ID3 algoritması kullanılarak  kodlanmıştır.
 
 
-haberman.txt dosyasında etiket ve değerleri bulunmaktadır. Girdi dosyasındaki veriler ile ID3 algoritması işletilerek 
-hedef etiket değerine hangi özelliklerden ulaşılacağını göstermektedir.
+Projede multi thread yapısı kullanarak haberman.txt veri seti üzerinden C4.5 algoritması kullanılarak karar ağacı oluşturulmaktadır.
+Veri seti açıklaması haberman_aciklama.txt dosyası içerisindedir.
 
-Java SE ile Eclipse IDE'de geliştirilmiştir.
+Java SE ile Eclipse IDE'de geliştirilmiş masaüstü uygulamasıdır.
